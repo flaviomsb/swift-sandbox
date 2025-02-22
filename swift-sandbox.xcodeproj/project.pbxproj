@@ -1,0 +1,79 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXFileReference section */
+		E77A17EB2D6A8B2100CA7092 /* closures.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = closures.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		E77A17EC2D6A8B2100CA7092 /* functions.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = functions.playground; sourceTree = "<group>"; };
+		E77A17ED2D6A8B2100CA7092 /* optionals.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = optionals.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		E77B41E82D5DAACB00FA1173 = {
+			isa = PBXGroup;
+			children = (
+				E77A17EB2D6A8B2100CA7092 /* closures.playground */,
+				E77A17EC2D6A8B2100CA7092 /* functions.playground */,
+				E77A17ED2D6A8B2100CA7092 /* optionals.playground */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		E77B41E92D5DAACB00FA1173 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastUpgradeCheck = 1620;
+			};
+			buildConfigurationList = E77B41EC2D5DAACB00FA1173 /* Build configuration list for PBXProject "swift-sandbox" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = E77B41E82D5DAACB00FA1173;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		E77B41ED2D5DAACB00FA1173 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		E77B41EE2D5DAACB00FA1173 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		E77B41EC2D5DAACB00FA1173 /* Build configuration list for PBXProject "swift-sandbox" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				E77B41ED2D5DAACB00FA1173 /* Debug */,
+				E77B41EE2D5DAACB00FA1173 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = E77B41E92D5DAACB00FA1173 /* Project object */;
+}
